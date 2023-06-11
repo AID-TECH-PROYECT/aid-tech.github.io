@@ -1,2 +1,2 @@
 # aid-tech.github.io
-#Proyecto de IHC y Tecnoogias Mobiles
+#Proyecto de IHC y Tecnologias Mobiles
